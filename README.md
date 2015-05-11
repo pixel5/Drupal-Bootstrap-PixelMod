@@ -5,3 +5,4 @@ Original project created by 'wundo'. Thank you to to the past and current mainta
 
 **Features** (a growing list):
 - Added block region 'Jumbotron', allowing for full-width bootstrap jumbotrons
+- Easy dropdown menus enabled

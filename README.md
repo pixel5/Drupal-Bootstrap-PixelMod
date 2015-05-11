@@ -6,4 +6,4 @@ Original project created by 'wundo'. Thank you to to the past and current mainta
 **Features** (a growing list):
 - Added block region 'Jumbotron', allowing for full-width bootstrap jumbotrons
 - Easy dropdown menus enabled
-- Added CSS the Bootstrap components in the list-group-item family
+- Added CSS for the Bootstrap components in the list-group-item family
